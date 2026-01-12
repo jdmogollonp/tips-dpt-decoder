@@ -1,0 +1,5 @@
+image: /path/to/input.jpg
+image_ckpt: tips/pytorch/checkpoints/tips_oss_s14_highres_distilled_vision.npz
+decoder_ckpt: checkpoints/dpt_decoder_epoch_99.pth
+output: /path/to/output_depth.png
+colormap: true

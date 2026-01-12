@@ -1,0 +1,23 @@
+# PyTorch (CPU version, change to GPU if needed)
+torch
+torchvision
+torchaudio
+# If using GPU, replace the above with the appropriate version:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118  # Example for CUDA 11.8
+
+# Other dependencies
+tensorflow_text
+mediapy
+jax
+jaxlib
+scikit-learn
+numpy
+pandas
+Pillow
+matplotlib
+opencv-python
+albumentations
+torchmetrics
+tqdm
+ruff
+pytest

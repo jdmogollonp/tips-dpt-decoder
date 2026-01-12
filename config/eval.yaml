@@ -1,0 +1,8 @@
+val_csv: /path/to/nyu2_val.csv
+base_path: /path/to/nyu_data
+image_ckpt: tips/pytorch/checkpoints/tips_oss_s14_highres_distilled_vision.npz
+decoder_ckpt: checkpoints/dpt_decoder_epoch_19.pth
+batch_size: 4
+num_workers: 0
+max_batches: 0
+max_samples: 0

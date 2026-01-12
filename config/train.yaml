@@ -1,0 +1,11 @@
+train_csv: /path/to/nyu2_train.csv
+base_path: /path/to/nyu_data
+image_ckpt: tips/pytorch/checkpoints/tips_oss_s14_highres_distilled_vision.npz
+output_dir: checkpoints
+epochs: 20
+batch_size: 8
+lr: 1.0e-4
+num_workers: 0
+max_train_samples: 10000
+max_val_samples: 1000
+device: cuda

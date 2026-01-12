@@ -1,0 +1,8 @@
+This repository includes an unofficial DPT-style decoder built on top of the
+official TIPS implementation (https://github.com/google-deepmind/tips).
+
+The TIPS source is included under `tips/` and remains under its original
+Apache-2.0 license and attribution.
+
+This decoder references the DPT architecture described in:
+  Ranftl et al., "Vision Transformers for Dense Prediction" (ICCV 2021).
