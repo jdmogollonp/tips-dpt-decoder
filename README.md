@@ -130,9 +130,8 @@ pytest
 ```
 
 ## Notes
-- The decoder architecture and training loop are aligned to the latest notebook
-  versions (see `notebooks/TIP_DECODER DPT.ipynb` and
-  `notebooks/TIP_DECODER DPT IMAGE+TEXT.ipynb`).
+- The decoder architecture and training loop are aligned to the reference
+  notebook in `notebooks/TIP_DECODER DPT IMAGE+TEXT.ipynb`.
 - TIPS checkpoints are required for feature extraction; use the provided
   checkpoints in `tips/pytorch/checkpoints`.
 
