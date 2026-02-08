@@ -1,5 +1,7 @@
 # TIPS DPT Decoder (Unofficial)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jdmogollonp/tips-dpt-decoder)
+
 This repository packages a public-facing version of the TIPS DPT-style depth
 decoder and training pipeline. It is built on top of the official TIPS release
 (`tips/`) and provides clean, scriptable entry points for training and
